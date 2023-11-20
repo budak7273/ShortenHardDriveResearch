@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"SemVersion": "1.0.0",
+	"FriendlyName": "Shorten Hard Drive Research",
+	"Description": "Configure how long it takes for the MAM to scan hard drives.",
+	"Category": "Modding",
+	"CreatedBy": "Robb",
+	"CreatedByURL": "https://github.com/budak7273/ShortenHardDriveResearch",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "http://discord.gg/zqp6U7Y7Nu",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "SML",
+			"Enabled": true,
+			"SemVersion": "^3.6.0",
+			"BasePlugin": false
+		}
+	]
+}
